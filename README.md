@@ -1,2 +1,0 @@
-# OMSDK
-OpenMeasurement SDK
