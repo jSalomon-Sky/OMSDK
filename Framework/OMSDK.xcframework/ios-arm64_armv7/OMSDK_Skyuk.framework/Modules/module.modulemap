@@ -1,0 +1,4 @@
+module OMSDK_Skyuk {
+    header "Headers/OMIDImports.h"
+    export *
+}
