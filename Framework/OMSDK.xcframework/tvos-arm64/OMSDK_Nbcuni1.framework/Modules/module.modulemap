@@ -1,0 +1,4 @@
+module OMSDK_Nbcuni1 {
+    header "Headers/OMIDImports.h"
+    export *
+}
